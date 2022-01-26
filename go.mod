@@ -20,6 +20,7 @@ require (
 	github.com/gtank/merlin v0.1.1
 	github.com/libp2p/go-buffer-pool v0.0.2
 	github.com/minio/highwayhash v1.0.1
+	github.com/oasisprotocol/curve25519-voi v0.0.0-20211219162838-e9a669f65da9
 	github.com/oasisprotocol/ed25519 v0.0.0-20210127160119-f7017427c1ea
 	github.com/oasisprotocol/safeopen v0.0.0-20200528085122-e01cfdfc7661
 	github.com/pkg/errors v0.9.1
@@ -32,7 +33,7 @@ require (
 	github.com/spf13/viper v1.7.1
 	github.com/stretchr/testify v1.7.0
 	github.com/tendermint/tm-db v0.6.4
-	golang.org/x/crypto v0.0.0-20201117144127-c1f2f97bffc9
-	golang.org/x/net v0.0.0-20201021035429-f5854403a974
+	golang.org/x/crypto v0.0.0-20210813211128-0a44fdfbc16e
+	golang.org/x/net v0.0.0-20210226172049-e18ecbb05110
 	google.golang.org/grpc v1.35.0
 )
